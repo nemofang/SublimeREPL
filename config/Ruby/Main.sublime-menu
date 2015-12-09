@@ -26,12 +26,12 @@
                       "$editor"
                     ],
                     "linux":[
-                      "ruby",
+                      "rvm-auto-ruby",
                       "${packages}/SublimeREPL/config/Ruby/pry_repl.rb",
                       "$editor"
                     ],
                     "osx":[
-                      "ruby",
+                      "rvm-auto-ruby",
                       "${packages}/SublimeREPL/config/Ruby/pry_repl.rb",
                       "$editor"
                     ]
